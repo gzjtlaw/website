@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: 车道信号灯表示什么？
+author: 本站记者
+author_login: admin
+author_email: jiangwei909@gmail.com
+wordpress_id: 1810
+wordpress_url: http://www.gzjtlaw.com/?p=1810
+date: 2011-05-29 09:30:28.000000000 +08:00
+categories:
+- 交通常识
+tags: []
+comments: []
+---
+<p>车道信号灯表示： <br>　　（1）绿色箭头灯亮时，准许本车道<a>车辆<&#47;a>按指示方向通行； <br>　　（2）红色叉形灯或者箭头灯亮时，禁止本车道车辆通行。 <br><&#47;p><br&#47;><p>标签:广州交通事故索赔 广州交通事故赔偿 广州交通事故律师<&#47;p>

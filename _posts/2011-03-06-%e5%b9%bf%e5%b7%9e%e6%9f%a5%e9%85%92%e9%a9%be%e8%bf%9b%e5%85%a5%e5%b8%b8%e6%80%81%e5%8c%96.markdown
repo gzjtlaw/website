@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: 广州查酒驾进入常态化
+author: 本站记者
+author_login: admin
+author_email: jiangwei909@gmail.com
+wordpress_id: 36
+wordpress_url: http://www.gzjtlaw.com/?p=36
+date: 2011-03-06 04:10:33.000000000 +08:00
+categories:
+- 新闻动态
+tags: []
+comments: []
+---
+<strong>[来自南方日报的报道]<&#47;strong> 昨日，广州市公安局交警支队通报：3月1日，一涉嫌酒驾男子为逃避交警检查弃车跳江，现已确认溺水身亡。
+
+广州交警提醒，目前整治酒后驾驶行动已经纳入交警的常态化管理，呼吁驾驶员守法出行，文明出行，切勿酒后驾驶。

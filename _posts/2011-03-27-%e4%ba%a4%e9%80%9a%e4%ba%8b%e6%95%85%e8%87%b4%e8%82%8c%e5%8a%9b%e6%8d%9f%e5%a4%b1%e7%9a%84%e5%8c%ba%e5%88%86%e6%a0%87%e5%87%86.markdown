@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: 交通事故致肌力损失的区分标准
+author: 本站记者
+author_login: admin
+author_email: jiangwei909@gmail.com
+wordpress_id: 206
+wordpress_url: http://www.gzjtlaw.com/?p=206
+date: 2011-03-27 15:08:09.000000000 +08:00
+categories:
+- 交通事故赔偿
+tags: []
+comments: []
+---
+交通事故致肌力损伤的检查区分标准
+
+1、0级：肌肉无收缩；
+
+2、1级：肌肉轻微收缩，不能活动关节；
+
+3、2级：无地心吸引力的情况下，能活动关节，但不能活动指举动作和关节；
+
+4、四级：能活动关节，抗一定阻力；
+
+5、五级：正常肌力。
+
+肌力是交通事故受伤人员伤残评定的重要参考指标！

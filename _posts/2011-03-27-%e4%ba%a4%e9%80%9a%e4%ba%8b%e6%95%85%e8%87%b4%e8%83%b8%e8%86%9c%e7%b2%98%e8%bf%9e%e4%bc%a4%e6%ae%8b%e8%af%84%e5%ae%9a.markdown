@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: 交通事故致胸膜粘连伤残评定
+author: 本站记者
+author_login: admin
+author_email: jiangwei909@gmail.com
+wordpress_id: 210
+wordpress_url: http://www.gzjtlaw.com/?p=210
+date: 2011-03-27 15:10:17.000000000 +08:00
+categories:
+- 交通事故赔偿
+tags: []
+comments: []
+---
+壁层胸膜与脏层胸膜之间失去了潜在的间隙，两者之间由纤维组织连接形成胸膜粘连。胸膜粘连往往是由血气胸、胸膜炎症、脓胸以及开胸手术后遗症所致。
+
+1、轻度的胸粘连，无临床症状和体征的构不成伤残；
+
+2、严重的胸膜粘连有呼吸困难的，参考肺损伤一节的内容评定；
+
+3、胸膜粘连行开胸手术治疗的，可以评定为伤残十级；
+
+4、胸膜粘连是由于肺损伤造成的或是肋骨骨折造成的，可以参考相关章节的内容评定。
+
+律师提示：请以法医鉴定机构正式鉴定意见为准，仅供参考！

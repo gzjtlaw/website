@@ -1,0 +1,16 @@
+---
+layout: page
+status: publish
+published: true
+title: 赔偿标准
+author: 本站记者
+author_login: admin
+author_email: jiangwei909@gmail.com
+wordpress_id: 488
+wordpress_url: http://www.gzjtlaw.com/?page_id=488
+date: 2011-05-18 14:59:12.000000000 +08:00
+categories: []
+tags: []
+comments: []
+---
+

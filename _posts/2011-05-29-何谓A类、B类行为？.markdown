@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: 何谓A类、B类行为？
+author: 本站记者
+author_login: admin
+author_email: jiangwei909@gmail.com
+wordpress_id: 1978
+wordpress_url: http://www.gzjtlaw.com/?p=1978
+date: 2011-05-29 09:30:28.000000000 +08:00
+categories:
+- 交通常识
+tags: []
+comments: []
+---
+<p> 《北京市<a>交通事故<&#47;a><a>当事人<&#47;a>责任确定标准试行》中将当事人与发生<a><a>道路交通<&#47;a>事故<&#47;a>安全<a>违法行为<&#47;a>分为A、B两类。<br> A类行为，即严重过错行为，该类行为是交通事故发生的原因，在交通事故中起主要作用。值得指出，按照交通事故分类的A类行为共93条。<br> B类行为，即一般过错行为，该类行为是交通事故发生的条件，在发生交通事故中起次要作用。值得指出，按照行为主体分类的B类行为32条。<br><&#47;p><br&#47;><p>标签:广州交通事故索赔 广州交通事故赔偿 广州交通事故律师<&#47;p>

@@ -1,0 +1,64 @@
+---
+layout: post
+status: publish
+published: true
+title: 道路交通事故伤残皮肤损伤评定标准
+author: 本站记者
+author_login: admin
+author_email: jiangwei909@gmail.com
+wordpress_id: 133
+wordpress_url: http://www.gzjtlaw.com/?p=133
+date: 2011-03-10 05:27:35.000000000 +08:00
+categories:
+- 交通事故赔偿
+tags: []
+comments: []
+---
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="9%" height="16" align="middle" valign="top" bgcolor="#c0c0c0"><strong>等级<&#47;strong><&#47;td>
+<td width="91%" height="16" align="middle" valign="top" bgcolor="#c0c0c0"><strong>标准<&#47;strong><&#47;td>
+<&#47;tr>
+<tr>
+<td width="9%" height="16" valign="top">一级<&#47;td>
+<td width="91%" height="16" valign="top">皮肤损伤致瘢痕形成达体表面积90%以上。<&#47;td>
+<&#47;tr>
+<tr>
+<td width="9%" height="16" valign="top">二级<&#47;td>
+<td width="91%" height="16" valign="top">皮肤损伤致瘢痕形成达体表面积80%以上。<&#47;td>
+<&#47;tr>
+<tr>
+<td width="9%" height="16" valign="top">三级<&#47;td>
+<td width="91%" height="16" valign="top">皮肤损伤致瘢痕形成达体表面积70%以上。<&#47;td>
+<&#47;tr>
+<tr>
+<td width="9%" height="16" valign="top">四级<&#47;td>
+<td width="91%" height="16" valign="top">皮肤损伤致瘢痕形成达体表面积60%以上。<&#47;td>
+<&#47;tr>
+<tr>
+<td width="9%" height="16" valign="top">五级<&#47;td>
+<td width="91%" height="16" valign="top">皮肤损伤致瘢痕形成达体表面积50%以上。<&#47;td>
+<&#47;tr>
+<tr>
+<td width="9%" height="16" valign="top">六级<&#47;td>
+<td width="91%" height="16" valign="top">皮肤损伤致瘢痕形成达体表面积40%以上。<&#47;td>
+<&#47;tr>
+<tr>
+<td width="9%" height="16" valign="top">七级<&#47;td>
+<td width="91%" height="16" valign="top">皮肤损伤致瘢痕形成达体表面积30%以上。<&#47;td>
+<&#47;tr>
+<tr>
+<td width="9%" height="16" valign="top">八级<&#47;td>
+<td width="91%" height="16" valign="top">皮肤损伤致瘢痕形成达体表面积20%以上。<&#47;td>
+<&#47;tr>
+<tr>
+<td width="9%" height="16" valign="top">九级<&#47;td>
+<td width="91%" height="16" valign="top">皮肤损伤致瘢痕形成达体表面积10%以上。<&#47;td>
+<&#47;tr>
+<tr>
+<td width="9%" height="16" valign="top">十级<&#47;td>
+<td width="91%" height="16" valign="top">皮肤损伤致瘢痕形成达体表面积5%以上。<&#47;td>
+<&#47;tr>
+<&#47;tbody>
+<&#47;table>

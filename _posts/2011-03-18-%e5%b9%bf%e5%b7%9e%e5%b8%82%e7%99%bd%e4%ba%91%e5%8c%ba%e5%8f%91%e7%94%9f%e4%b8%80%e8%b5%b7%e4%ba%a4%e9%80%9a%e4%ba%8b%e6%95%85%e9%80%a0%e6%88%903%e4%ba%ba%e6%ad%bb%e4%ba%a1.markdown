@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: 广州市白云区发生一起交通事故造成3人死亡
+author: 本站记者
+author_login: admin
+author_email: jiangwei909@gmail.com
+wordpress_id: 166
+wordpress_url: http://www.gzjtlaw.com/?p=166
+date: 2011-03-18 04:07:39.000000000 +08:00
+categories:
+- 新闻动态
+tags: []
+comments: []
+---
+来自广东省应急网的报道：
+
+2011年3月15日晚上7时，一辆广州籍面包车行驶至广州市白云区新广从公路钟落潭佛公桥路段时，撞倒横过马路的3名行人，造成3人死亡。
+
+接报后，省、市有关单位负责同志立即赶赴现场组织事故处置工作。
+
+目前，事故原因调查等善后工作正有序进行。

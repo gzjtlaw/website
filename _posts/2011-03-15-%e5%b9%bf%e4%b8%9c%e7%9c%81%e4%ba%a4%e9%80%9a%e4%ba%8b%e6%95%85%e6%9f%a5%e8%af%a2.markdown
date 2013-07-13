@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: 广东省交通事故查询
+author: 本站记者
+author_login: admin
+author_email: jiangwei909@gmail.com
+wordpress_id: 160
+wordpress_url: http://www.gzjtlaw.com/?p=160
+date: 2011-03-15 04:28:10.000000000 +08:00
+categories:
+- 违章查询
+tags: []
+comments: []
+---
+点击进入<a href="http:&#47;&#47;www.gdgajj.com&#47;cx&#47;acdfile&#47;acdfile.do" target="_blank">广东省交通事故查询<&#47;a>

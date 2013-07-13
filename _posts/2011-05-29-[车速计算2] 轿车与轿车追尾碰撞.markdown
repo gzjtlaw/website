@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: ! '[车速计算2] 轿车与轿车追尾碰撞'
+author: 本站记者
+author_login: admin
+author_email: jiangwei909@gmail.com
+wordpress_id: 1628
+wordpress_url: http://www.gzjtlaw.com/?p=1628
+date: 2011-05-29 09:30:28.000000000 +08:00
+categories:
+- 交通常识
+tags: []
+comments: []
+---
+<p><p><p>轿车与轿车追尾碰撞<br>(仅供参考)<&#47;p><p><&#47;p><p><&#47;p><p>式中：<&#47;p><p><v:shapetype><v:stroke><&#47;v:stroke><v:formulas><v:f><&#47;v:f><v:f><&#47;v:f><v:f><&#47;v:f><v:f><&#47;v:f><v:f><&#47;v:f><v:f><&#47;v:f><v:f><&#47;v:f><v:f><&#47;v:f><v:f><&#47;v:f><v:f><&#47;v:f><v:f><&#47;v:f><v:f><&#47;v:f><&#47;v:formulas><v:path><&#47;v:path><o:lock><&#47;o:lock><&#47;v:shapetype><v:shape><v:imagedata>v1<&#47;v:imagedata><&#47;v:shape>、<v:shape>v2 <v:imagedata><&#47;v:imagedata><&#47;v:shape>&mdash;&mdash; 碰撞车、被碰撞车行驶速度（单位：km&#47;h）<&#47;p><p><v:shape><v:imagedata>m1<&#47;v:imagedata><&#47;v:shape>、<v:shape>m2 <v:imagedata><&#47;v:imagedata><&#47;v:shape>&mdash;&mdash; 碰撞车、被碰撞车质量（单位：kg）<&#47;p><p><v:shape><v:imagedata><&#47;v:imagedata><&#47;v:shape> &mdash;&mdash; 碰撞车纵滑附着系数<&#47;p><p><v:shape><v:imagedata><&#47;v:imagedata><&#47;v:shape> &mdash;&mdash; 碰撞车附着系数修正值<&#47;p><p><v:shape><v:imagedata><&#47;v:imagedata><&#47;v:shape>、<v:shape> <v:imagedata><&#47;v:imagedata><&#47;v:shape> &mdash;&mdash; 碰撞车、被碰撞车碰撞之后的滑移距离（单位：米）<&#47;p><p><v:shape><v:imagedata><&#47;v:imagedata><&#47;v:shape>&mdash;&mdash; 被碰撞车的滚动阻力系数<&#47;p><p><v:shape><v:imagedata><&#47;v:imagedata><&#47;v:shape> &mdash;&mdash; 被碰撞车塑性变形量（单位：米）<&#47;p><&#47;p><br&#47;><p>标签:广州交通事故索赔 广州交通事故赔偿 广州交通事故律师<&#47;p>

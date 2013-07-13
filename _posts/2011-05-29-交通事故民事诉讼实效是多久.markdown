@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: 交通事故民事诉讼实效是多久
+author: 本站记者
+author_login: admin
+author_email: jiangwei909@gmail.com
+wordpress_id: 1210
+wordpress_url: http://www.gzjtlaw.com/?p=1210
+date: 2011-05-29 09:14:24.000000000 +08:00
+categories:
+- 交通诉讼
+tags: []
+comments: []
+---
+<p><a>诉讼时效<&#47;a>不是从事故发生之日起算的，而是从<a>当事人<&#47;a>知道自己的权利被侵害之日起算的，只要你一直在向侵权者主张权利，时效就不开始计算。民法通则一百三十五与一百三十六条规定了诉讼时效。<&#47;p><br&#47;><p>标签:广州交通事故索赔 广州交通事故赔偿 广州交通事故律师<&#47;p>
