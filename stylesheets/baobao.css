@@ -1,0 +1,164 @@
+body {
+    background: none repeat scroll 0 0 #0a3491;
+    color: #F2F2F2;
+    font-size: 18px;
+}
+
+#header_wrap {
+    background: #0a3491;
+    height: 144px;
+}
+
+#footer_wrap {
+    background: #0a3491;
+}
+
+#main_content_wrap {
+    overflow: auto;
+    background: none repeat scroll 0 0 #0a3491;
+}
+
+#main_content_top_wrap {
+    overflow: auto;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#main_content {
+    width: 640px;
+    float: left;
+
+}
+
+#side_bar {
+    width: 320px;
+    float: left;
+}
+
+#footer {
+}
+
+#kouhao {
+    font-size: 72px;
+}
+
+#service-items {
+    clear: both;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    
+}
+
+.service-item {
+    float: left;
+    width: 240px;
+    height: 120px;
+    margin-right: 30px;
+}
+
+.service-item-header {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+#lawyer-wrap {
+    overflow: auto;
+    clear: both;
+/*   
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid #F2F2F2;
+*/
+}
+
+#lawyer-intr {
+    float: left;
+    width: 460px;
+    margin-right: 20px;
+}
+
+#location-map {
+    float: left;
+    width: 460px;
+}
+
+.inner {
+    max-width: 960px;
+}
+
+/* logo area */
+#logo-area {
+  float: left;
+}
+
+#logo-area #logo-img-area {
+  margin: 10px auto 3px auto;
+  width: 72px;
+}
+#logo-area #logo-img-area img {
+  width: 64px;
+  border: 0;
+}
+
+#logo-area #logo-title-area {
+    font-size: 32px;
+}
+
+#header_wrap .inner {
+    padding: 5px 10px 30px;
+}
+
+#menu-nav {
+  float: left;
+  margin: 80px auto 10px 100px;
+}
+
+#menu-nav ul {
+  list-style: none;
+  padding: 0px;
+  overflow: auto;
+/*  background: #12242F; */
+  margin-bottom: 0px;
+/*  width: 960px; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#menu-nav ul li {
+    float: left;
+    margin-left: 10px;
+    
+    list-style: none;
+    padding-left: 0px;
+}
+#menu-nav ul li a {
+      display: block;
+      padding: 5px 10px;
+      text-decoration: none;
+      color: #FFFFFF;
+      font-weight: 700;
+      
+      border-radius: 10px 10px 10px 10px; 
+    }
+#menu-nav ul li a:hover {
+        color: #0a3491;
+        background: #F2F2F2;
+   
+}
+
+#menu-nav ul li .selected a{
+        color: #0a3491;
+        background: #F2F2F2;
+   
+}
+
+#main_content_wrap {
+    border: none;
+}
+
+img {
+  border: none;
+  box-shadow: none;
+}
