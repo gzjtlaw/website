@@ -169,3 +169,33 @@ img {
     font-family: Verdana,sans-serif,宋体;
     font-weight: 700;
 }
+
+
+/* article */
+#article-list-area {
+  margin: 10px auto 10px auto;
+  width: 960px;
+  background: #F2F2F2;
+  
+  border-radius: 5px 5px 5px 5px;
+  border: 1px solid #F2F2F2;
+}
+
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+ul.posts li {
+  line-height: 1.75em;
+}
+
+ul.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+
+h1 {
+  margin: 5px;
+}
