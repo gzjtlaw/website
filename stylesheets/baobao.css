@@ -1,21 +1,21 @@
 body {
-    background: none repeat scroll 0 0 #0a3491;
+    background: none repeat scroll 0 0 #004081;
     color: #F2F2F2;
     font-size: 18px;
 }
 
 #header_wrap {
-    background: #0a3491;
+    background: #004081;
     height: 144px;
 }
 
 #footer_wrap {
-    background: #0a3491;
+    background: #001020;
 }
 
 #main_content_wrap {
     overflow: auto;
-    background: none repeat scroll 0 0 #0a3491;
+    background: none repeat scroll 0 0 #004081;
 }
 
 #main_content_top_wrap {
@@ -41,7 +41,8 @@ body {
 }
 
 #kouhao {
-    font-size: 72px;
+    font-size: 64px;
+    font-family: 微软雅黑,Verdana,sans-serif,宋体;
 }
 
 #service-items {
@@ -161,4 +162,10 @@ body {
 img {
   border: none;
   box-shadow: none;
+}
+
+#first-lawyer {
+    font-size: 18px;
+    font-family: Verdana,sans-serif,宋体;
+    font-weight: 700;
 }
