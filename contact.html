@@ -1,6 +1,7 @@
 ---
 layout: baobao
-title: Your New Jekyll Site
+title: 联系我们
+pstyle: <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.2.1/pure-min.css">
 ---
 
 <div id="article-list-area">
@@ -8,4 +9,32 @@ title: Your New Jekyll Site
 <p class="black-content">
 广州交通事故法律网是一个以提供交通事故索赔法律服务为主的网站，“勤勉谨慎、恪守职责、诚信高效”是我们的宗旨。如果你需要交通事故索赔方面的法律援助，请直接联系我们的专职律师，我们一定会尽最大的全力为你提供最满意的帮助服务。
 </p>
+
+<form class="pure-form pure-form-aligned" action="http://getsimpleform.com/messages?form_api_token=f34bc56607a8922ed19014fdbe5e86b4" method="post">
+  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+  <input type='hidden' name='redirect_to' value='http://gzjtlaw.com/thanks.html' />
+  <!-- all your input fields here.... -->
+      <fieldset>
+        <div class="pure-control-group">
+            <label for="name">名字</label>
+            <input name="name" id="name" type="text" placeholder="你的名字">
+        </div>
+
+        <div class="pure-control-group">
+            <label for="email">邮件地址</label>
+            <input name="email" id="email" type="email" placeholder="你的电子邮件地址">
+        </div>
+
+        <div class="pure-control-group">
+            <label for="foo">留言内容</label>
+            <textarea name="message" id="foo" type="textarea" placeholder="你想要给我们的留言">
+	    </textarea>
+        </div>
+
+        <div class="pure-controls">
+            <button type="submit" class="pure-button pure-button-primary">提交</button>
+        </div>
+    </fieldset>
+</form>
+
 </div>
