@@ -15,4 +15,4 @@ tags: []
 comments: []
 ---
 
-点击进入<a href="http:&#47;&#47;www.gzjd.gov.cn&#47;gzwfcx" target=_blank>广州市机动车违章查询<&#47;a>
+点击进入广州市机动车违章查询

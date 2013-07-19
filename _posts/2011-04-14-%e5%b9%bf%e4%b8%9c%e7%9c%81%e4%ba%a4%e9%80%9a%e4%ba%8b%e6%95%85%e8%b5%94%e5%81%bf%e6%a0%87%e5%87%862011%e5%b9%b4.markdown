@@ -15,9 +15,9 @@ categories:
 tags: []
 comments: []
 ---
-<div id="endText">
 
-<strong>广东省交通事故赔偿标准 (2011年)<&#47;strong>
+
+广东省交通事故赔偿标准 (2011年)
 
 各市、县公安局：
 
@@ -28,120 +28,120 @@ comments: []
 附表：
 
 广东省公安机关2011年度道路交通事故人身损害赔偿有关项目计算标准
-<table border="1" cellspacing="0" cellpadding="0" width="567">
-<tbody>
-<tr>
-<td width="38">序号<&#47;td>
-<td colspan="3" width="323">项目<&#47;td>
-<td width="110">标准<&#47;td>
-<td width="96">说明<&#47;td>
-<&#47;tr>
-<tr>
-<td rowspan="4" width="38">一<&#47;td>
-<td rowspan="4" width="137">城镇居民人均　　　　　　可支配收入(元&#47;年)<&#47;td>
-<td width="102">计划单列市<&#47;td>
-<td width="84">深圳<&#47;td>
-<td width="110">29244.52<&#47;td>
-<td rowspan="4" width="96"><&#47;td>
-<&#47;tr>
-<tr>
-<td rowspan="2" width="102">经济特区<&#47;td>
-<td width="84">珠海<&#47;td>
-<td width="110">22858.57<&#47;td>
-<&#47;tr>
-<tr>
-<td width="84">汕头<&#47;td>
-<td width="110">13650.89<&#47;td>
-<&#47;tr>
-<tr>
-<td colspan="2" width="186">一般地区<&#47;td>
-<td width="110">21574.70<&#47;td>
-<&#47;tr>
-<tr>
-<td width="38">二<&#47;td>
-<td colspan="3" width="323">农村居民人均纯收入(元&#47;年)<&#47;td>
-<td width="110">6906.93<&#47;td>
-<td width="96"><&#47;td>
-<&#47;tr>
-<tr>
-<td rowspan="4" width="38">三<&#47;td>
-<td rowspan="4" width="137">城镇居民人均消费性支出(元&#47;年)<&#47;td>
-<td width="102">计划单列市<&#47;td>
-<td width="84">深圳<&#47;td>
-<td width="110">21526.10<&#47;td>
-<td rowspan="4" width="96"><&#47;td>
-<&#47;tr>
-<tr>
-<td rowspan="2" width="102">经济特区<&#47;td>
-<td width="84">珠海<&#47;td>
-<td width="110">17948.41<&#47;td>
-<&#47;tr>
-<tr>
-<td width="84">汕头<&#47;td>
-<td width="110">11659.47<&#47;td>
-<&#47;tr>
-<tr>
-<td colspan="2" width="186">一般地区<&#47;td>
-<td width="110">16857.51<&#47;td>
-<&#47;tr>
-<tr>
-<td width="38">四<&#47;td>
-<td colspan="3" width="323">农村居民人均年生活消费支出(元)<&#47;td>
-<td width="110">5019.81<&#47;td>
-<td width="96"><&#47;td>
-<&#47;tr>
-<tr>
-<td rowspan="4" width="38">五<&#47;td>
-<td rowspan="4" width="137">城镇、国有单位在岗职工平均工资(元&#47;年)<&#47;td>
-<td width="102">计划单列市<&#47;td>
-<td width="84">深圳<&#47;td>
-<td width="110">65431<&#47;td>
-<td rowspan="4" width="96"><&#47;td>
-<&#47;tr>
-<tr>
-<td rowspan="2" width="102">经济特区<&#47;td>
-<td width="84">珠海<&#47;td>
-<td width="110">58359<&#47;td>
-<&#47;tr>
-<tr>
-<td width="84">汕头<&#47;td>
-<td width="110">27698<&#47;td>
-<&#47;tr>
-<tr>
-<td colspan="2" width="186">一般地区<&#47;td>
-<td width="110">40775<&#47;td>
-<&#47;tr>
-<tr>
-<td width="38">六<&#47;td>
-<td colspan="3" width="323">住宿费(元&#47;天)<&#47;td>
-<td width="110">150<&#47;td>
-<td width="96">省财政厅&ldquo;粤财行［2007］229号&rdquo;文规定<&#47;td>
-<&#47;tr>
-<tr>
-<td width="38">七<&#47;td>
-<td colspan="3" width="323">伙食补助费(元&#47;天)<&#47;td>
-<td width="110">50<&#47;td>
-<td width="96">省财政厅&ldquo;粤财行［2007］229号&rdquo;文规定<&#47;td>
-<&#47;tr>
-<&#47;tbody>
-<&#47;table>
-<table border="1" cellspacing="0" cellpadding="0" width="545">
-<tbody>
-<tr>
-<td width="53">序号<&#47;td>
-<td colspan="3" width="399">项　　　　目<&#47;td>
-<td width="93">标准<&#47;td>
-<&#47;tr>
-<tr>
-<td width="53"><&#47;td>
-<td width="53"><&#47;td>
-<td width="89"><&#47;td>
-<td width="257">行　　业<&#47;td>
-<td width="93">元&#47;年<&#47;td>
-<&#47;tr>
-<tr>
-<td rowspan="19" width="53">八<&#47;td>
-<td rowspan="19" width="53">国有同
+
+
+
+序号
+项目
+标准
+说明
+
+
+一
+城镇居民人均　　　　　　可支配收入(元&#47;年)
+计划单列市
+深圳
+29244.52
+
+
+
+经济特区
+珠海
+22858.57
+
+
+汕头
+13650.89
+
+
+一般地区
+21574.70
+
+
+二
+农村居民人均纯收入(元&#47;年)
+6906.93
+
+
+
+三
+城镇居民人均消费性支出(元&#47;年)
+计划单列市
+深圳
+21526.10
+
+
+
+经济特区
+珠海
+17948.41
+
+
+汕头
+11659.47
+
+
+一般地区
+16857.51
+
+
+四
+农村居民人均年生活消费支出(元)
+5019.81
+
+
+
+五
+城镇、国有单位在岗职工平均工资(元&#47;年)
+计划单列市
+深圳
+65431
+
+
+
+经济特区
+珠海
+58359
+
+
+汕头
+27698
+
+
+一般地区
+40775
+
+
+六
+住宿费(元&#47;天)
+150
+省财政厅&ldquo;粤财行［2007］229号&rdquo;文规定
+
+
+七
+伙食补助费(元&#47;天)
+50
+省财政厅&ldquo;粤财行［2007］229号&rdquo;文规定
+
+
+
+
+
+
+序号
+项　　　　目
+标准
+
+
+
+
+
+行　　业
+元&#47;年
+
+
+八
+国有同
 
 行
 
@@ -163,103 +163,103 @@ comments: []
 
 工
 
-资<&#47;td>
-<td width="89">（一）<&#47;td>
-<td width="257" valign="top">农、林、牧、渔业<&#47;td>
-<td width="93" valign="top">12006<&#47;td>
-<&#47;tr>
-<tr>
-<td width="89">（二）<&#47;td>
-<td width="257" valign="top">采矿业<&#47;td>
-<td width="93" valign="top">38661<&#47;td>
-<&#47;tr>
-<tr>
-<td width="89">（三）<&#47;td>
-<td width="257" valign="top">制造业<&#47;td>
-<td width="93" valign="top">33449<&#47;td>
-<&#47;tr>
-<tr>
-<td width="89">（四）<&#47;td>
-<td width="257" valign="top">电力、燃气及水的生产和供应业<&#47;td>
-<td width="93" valign="top">47598<&#47;td>
-<&#47;tr>
-<tr>
-<td width="89">（五）<&#47;td>
-<td width="257" valign="top">建筑业<&#47;td>
-<td width="93" valign="top">29058<&#47;td>
-<&#47;tr>
-<tr>
-<td width="89">（六）<&#47;td>
-<td width="257" valign="top">交通运输、仓储和邮政业<&#47;td>
-<td width="93" valign="top">42699<&#47;td>
-<&#47;tr>
-<tr>
-<td width="89">(七)<&#47;td>
-<td width="257" valign="top">信息传输、<a href="http:&#47;&#47;www.shigu.org&#47;297a.html">计算<&#47;a>机服务和软件业<&#47;td>
-<td width="93" valign="top">63165<&#47;td>
-<&#47;tr>
-<tr>
-<td width="89">(八)<&#47;td>
-<td width="257" valign="top">批发和零售业<&#47;td>
-<td width="93" valign="top">31810<&#47;td>
-<&#47;tr>
-<tr>
-<td width="89">(九)<&#47;td>
-<td width="257" valign="top">住宿和餐饮业<&#47;td>
-<td width="93" valign="top">24434<&#47;td>
-<&#47;tr>
-<tr>
-<td width="93">(十)<&#47;td>
-<td width="257" valign="top">金融业<&#47;td>
-<td width="99" valign="top">91846<&#47;td>
-<&#47;tr>
-<tr>
-<td width="93">(十一)<&#47;td>
-<td width="257" valign="top">房地产业<&#47;td>
-<td width="99" valign="top">34042<&#47;td>
-<&#47;tr>
-<tr>
-<td width="93">(十二)<&#47;td>
-<td width="257" valign="top">租赁和商务服务业<&#47;td>
-<td width="99" valign="top">29030<&#47;td>
-<&#47;tr>
-<tr>
-<td width="93">(十三)<&#47;td>
-<td width="257" valign="top">科学研究.、技术服务和地质勘查业<&#47;td>
-<td width="99" valign="top">57539<&#47;td>
-<&#47;tr>
-<tr>
-<td width="93">(十四)<&#47;td>
-<td width="257" valign="top">水利、环境和公共设施管理业<&#47;td>
-<td width="99" valign="top">26462<&#47;td>
-<&#47;tr>
-<tr>
-<td width="93">(十五)<&#47;td>
-<td width="257" valign="top">居民服务和其他服务业<&#47;td>
-<td width="99" valign="top">34685<&#47;td>
-<&#47;tr>
-<tr>
-<td width="93">(十六)<&#47;td>
-<td width="257" valign="top">教育<&#47;td>
-<td width="99" valign="top">34828<&#47;td>
-<&#47;tr>
-<tr>
-<td width="93">(十七)<&#47;td>
-<td width="257" valign="top">卫生、社会保障和社会福利业<&#47;td>
-<td width="99" valign="top">43343<&#47;td>
-<&#47;tr>
-<tr>
-<td width="93">(十八)<&#47;td>
-<td width="257" valign="top">文化、体育和娱乐业<&#47;td>
-<td width="99" valign="top">46460<&#47;td>
-<&#47;tr>
-<tr>
-<td width="93">(十九)<&#47;td>
-<td width="257" valign="top">公共管理和社会组织<&#47;td>
-<td width="99" valign="top">44908<&#47;td>
-<&#47;tr>
-<&#47;tbody>
-<&#47;table>
-<!--分页-->
+资
+（一）
+农、林、牧、渔业
+12006
 
-<&#47;div>
+
+（二）
+采矿业
+38661
+
+
+（三）
+制造业
+33449
+
+
+（四）
+电力、燃气及水的生产和供应业
+47598
+
+
+（五）
+建筑业
+29058
+
+
+（六）
+交通运输、仓储和邮政业
+42699
+
+
+(七)
+信息传输、计算机服务和软件业
+63165
+
+
+(八)
+批发和零售业
+31810
+
+
+(九)
+住宿和餐饮业
+24434
+
+
+(十)
+金融业
+91846
+
+
+(十一)
+房地产业
+34042
+
+
+(十二)
+租赁和商务服务业
+29030
+
+
+(十三)
+科学研究.、技术服务和地质勘查业
+57539
+
+
+(十四)
+水利、环境和公共设施管理业
+26462
+
+
+(十五)
+居民服务和其他服务业
+34685
+
+
+(十六)
+教育
+34828
+
+
+(十七)
+卫生、社会保障和社会福利业
+43343
+
+
+(十八)
+文化、体育和娱乐业
+46460
+
+
+(十九)
+公共管理和社会组织
+44908
+
+
+
+
+
+

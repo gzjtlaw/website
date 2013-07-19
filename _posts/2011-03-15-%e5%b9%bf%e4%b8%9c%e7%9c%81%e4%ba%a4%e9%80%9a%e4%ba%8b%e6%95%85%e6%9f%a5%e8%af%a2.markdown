@@ -14,4 +14,4 @@ categories:
 tags: []
 comments: []
 ---
-点击进入<a href="http:&#47;&#47;www.gdgajj.com&#47;cx&#47;acdfile&#47;acdfile.do" target="_blank">广东省交通事故查询<&#47;a>
+点击进入广东省交通事故查询
