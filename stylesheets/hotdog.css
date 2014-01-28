@@ -1,0 +1,84 @@
+#main-container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#content-container {
+    overflow: auto;
+    background: #FFFFFF;    
+    clear: both;
+}
+
+#content-container #body {
+    width: 589px;
+    padding-right: 55px;
+    padding-left: 55px;
+    padding-top: 2em;
+    float: left;
+}
+
+#content-container #sidebar {
+    float: left;
+    padding-right: 55px;
+    padding-top: 2em;
+    width: 246px;
+}
+
+#content-container #sidebar h2 {
+    font-size: 18px;
+    font-weight: 700;
+    padding-bottom: 1px;
+    background: #FFFFFF;
+    margin-bottom: 5px;
+}
+
+#content-container #sidebar h3 {
+    font-size: 14px;
+    font-weight: 700;
+    border-bottom: 1px solid #AAAAAA;
+    padding-bottom: 1px;
+}
+
+#content-container #sidebar p {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+#content-container #sidebar table,tbody,tr,td{
+    border: 0px solid #fff;
+    font-size: 14px;
+}
+
+#content-container #sidebar #avantar {
+    width: 150px;
+}
+
+#banner {
+    height: 96px;
+    background: #004081;
+    overflow: auto;
+}
+
+#logo-img {
+    width: 64px;
+    box-shadow: 0 0 0px #EBEBEB;
+    padding: 0px;
+    margin: 10px;
+    float: left;
+}
+
+#banner #title {
+    float: left;
+    margin: 20px 10px;
+}
+
+#banner .title-font {
+    font-size: 36px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.colored-font {
+    background: #004081;
+    color: #FFFFFF;
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Website : a site based on git" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/stylesheet.css">
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.3.0/pure-min.css">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/hotdog.css">
+
+    <!-- specify style for page -->
+    {{ page.pstyle }}
+
+    <title>{{site.name}}|{{page.title}}</title>
+
+  </head>
+  <body>
+    <div id="main-container">
+      {% include header-snip.html %}
+      <div id="content-container">
+	<div id="body">
+	  {{ content }}
+	</div>
+	<div id="sidebar">
+	  {% include sidebar-snip.html %}
+	</div>
+      </div>
+      {% include footer-snip.html %}
+    </div>
+  </body>
+</html>
