@@ -54,7 +54,7 @@
 }
 
 #banner {
-    height: 96px;
+    height: 128px;
     background: #004081;
     overflow: auto;
 }
@@ -79,6 +79,14 @@
 }
 
 .colored-font {
-    background: #004081;
+    background: #004790!important;
+    color: #FFFFFF!important;
+}
+
+#header .pure-menu a {
     color: #FFFFFF;
+}
+
+#header .pure-menu li a:hover,a:focus {
+    color: #004790;
 }
