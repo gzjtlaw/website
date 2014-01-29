@@ -90,3 +90,6 @@
 #header .pure-menu li a:hover,a:focus {
     color: #004790;
 }
+ol,ul {
+    padding: 0;
+}
