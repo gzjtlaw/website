@@ -2,3 +2,4 @@ name: 广州交通事故法律网-你身边的法律顾问
 pygments: true
 markdown: rdiscount
 paginate: 15
+url: http://gzjtlaw.com

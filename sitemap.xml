@@ -1,0 +1,11 @@
+---
+layout: sitemap
+---
+{% for post in site.posts %}
+<url>
+  <loc>{{site.url}}{{post.url}}</loc>
+  <lastmod>{{ post.date |localize: ":long" }}</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.6</priority>
+</url>
+{% endfor %}
