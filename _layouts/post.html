@@ -2,7 +2,7 @@
 layout: hotdog
 ---
 <h2>{{ page.title }}</h2>
-<div class="meta">{{ page.date | localize: ":long" }}</div>
+<div class="meta">{{ page.date | date: "%Y-%m-%d" }}</div>
 <div class="post">
       {{ content }}
 </div>

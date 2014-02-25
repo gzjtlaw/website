@@ -3,3 +3,4 @@ pygments: true
 markdown: rdiscount
 paginate: 15
 url: http://gzjtlaw.com
+timezone: Asia/Shanghai
